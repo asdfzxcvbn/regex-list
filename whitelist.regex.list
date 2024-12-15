@@ -1,0 +1,5 @@
+# fix chatgpt if using antiblacklist
+register\.appattest\.apple\.com$
+
+# fix feather local signing
+app\.localhost\.direct$

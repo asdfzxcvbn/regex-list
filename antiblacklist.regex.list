@@ -1,0 +1,9 @@
+# domains from sideloading.vercel.app (pureenvy's guide i think)
+# not using ^ to block subdomains too (nextdns default behavior)
+
+ocsp[0-9]*\.apple\.com$
+valid\.apple\.com$
+crl\.apple\.com$
+certs\.apple\.com$
+appattest\.apple\.com$
+vpp\.itunes\.apple\.com$
